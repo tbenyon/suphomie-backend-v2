@@ -1,6 +1,9 @@
 # IDE generated files
 .idea
 
+# Config Files
+config.json
+
 # Logs
 logs
 *.log
