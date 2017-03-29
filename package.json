@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tbenyon/suphomie-backend-v2#readme",
   "dependencies": {
+    "mongodb": "^2.2.25",
     "pusher": "^1.5.1"
   }
 }
